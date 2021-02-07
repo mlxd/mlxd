@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Lee
-### Quantum Activity Lead @ ICHEC
+### Senior computational scientist (Quantum Activity Lead) @ ICHEC
+### Research fellow @ NUI Galway
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
