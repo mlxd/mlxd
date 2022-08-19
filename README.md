@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lee
-### Scientific Computing Software Developer @ Xanadu.ai
+### Senior Quantum Software Developer @ Xanadu.ai
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
