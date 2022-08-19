@@ -11,7 +11,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.open-mpi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/open-mpi/ompi-www/master/images/open-mpi-logo.png" alt="mpi" width="40" height="40"/></a>
-  <a href="https://www.dask.org/" target="_blank"> <img src="https://docs.dask.org/en/latest/_images/dask_stacked.svg" alt="mpi" width="40" height="40"/></a> 
+  <a href="https://www.dask.org/" target="_blank"> <img src="https://raw.githubusercontent.com/dask/dask/main/docs/source/images/dask_icon.svg" alt="dask" width="40" height="40"/></a> 
  </p>
 
 <!--
